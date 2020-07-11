@@ -1,0 +1,6 @@
+framework module iDetector {
+  umbrella header "iDetector-umbrella.h"
+
+  export *
+  module * { export * }
+}

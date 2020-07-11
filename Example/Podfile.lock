@@ -1,0 +1,16 @@
+PODS:
+  - iDetector (0.1.0)
+
+DEPENDENCIES:
+  - iDetector (from `../`)
+
+EXTERNAL SOURCES:
+  iDetector:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iDetector: 1fd61e8a9ea2962896432281e2960b732b5ba495
+
+PODFILE CHECKSUM: 7d53725fedfbf149335ac89c8d88e137118ab7da
+
+COCOAPODS: 1.9.3

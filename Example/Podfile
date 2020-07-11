@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iDetector_Example' do
+  pod 'iDetector', :path => '../'
+
+  target 'iDetector_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

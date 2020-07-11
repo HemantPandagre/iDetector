@@ -1,0 +1,22 @@
+{
+  "name": "iDetector",
+  "version": "0.1.0",
+  "summary": "A short description of iDetector.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HemantPandagre/iDetector",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HemantPandagre": "hemant.pandagre@innoeye.com"
+  },
+  "source": {
+    "git": "https://github.com/HemantPandagre/iDetector.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iDetector/Classes/**/*"
+}
