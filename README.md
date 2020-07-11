@@ -22,7 +22,7 @@ pod 'iDetector'
 
 ## Author
 
-HemantPandagre, hemant.pandagre@innoeye.com
+Hemant Pandagre, hemantpandagre.techie@gmail.com
 
 ## License
 
