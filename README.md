@@ -5,10 +5,6 @@
 [![License](https://img.shields.io/cocoapods/l/iDetector.svg?style=flat)](https://cocoapods.org/pods/iDetector)
 [![Platform](https://img.shields.io/cocoapods/p/iDetector.svg?style=flat)](https://cocoapods.org/pods/iDetector)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
 
 Developer can easily detect the model of iPhone, iPad, iPod and AppleTV using iDetector.
