@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Developer can easily detect the model of iPhone, iPad, iPod and AppleTV using iDetector.
+
 ## Installation
 
 iDetector is available through [CocoaPods](https://cocoapods.org). To install
